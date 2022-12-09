@@ -1,0 +1,17 @@
+body{
+    /* background-color: red; */
+}
+.d-flex{
+    display: flex;
+   
+}
+ul,ol{
+  list-style: none;
+}
+a:link, a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+
+
